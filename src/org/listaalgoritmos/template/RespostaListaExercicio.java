@@ -27,6 +27,7 @@ public class RespostaListaExercicio {
 	/**
 	 * Método deve calcular a área do trapézio independente da unidade de medida.
 	 * Como resultado, o método deve retornar a área calculada.
+	 * Geneton Neto
 	 * @param baseMaior
 	 * @param baseMenor
 	 * @param altura
